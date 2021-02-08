@@ -1,0 +1,7 @@
+﻿  소스.cpp
+e:\users\inje\study\coding\c,c++\programmers\kakao blind test\18\cache\cache\소스.cpp(27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\coding\c,c++\programmers\kakao blind test\18\cache\cache\소스.cpp(29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\coding\c,c++\programmers\kakao blind test\18\cache\cache\소스.cpp(37): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\coding\c,c++\programmers\kakao blind test\18\cache\cache\소스.cpp(45): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\coding\c,c++\programmers\kakao blind test\18\cache\cache\소스.cpp(53): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+  Cache.vcxproj -> E:\Users\inje\study\Coding\C,C++\programmers\Kakao Blind Test\18\Cache\Debug\Cache.exe

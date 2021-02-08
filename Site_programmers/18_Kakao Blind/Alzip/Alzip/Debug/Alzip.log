@@ -1,0 +1,4 @@
+﻿  소스.cpp
+e:\users\inje\study\coding\c,c++\site_programmers\18 kakao blind\alzip\alzip\소스.cpp(23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\coding\c,c++\site_programmers\18 kakao blind\alzip\alzip\소스.cpp(43): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Alzip.vcxproj -> E:\Users\inje\study\Coding\C,C++\Site_programmers\18 Kakao Blind\Alzip\Debug\Alzip.exe

@@ -1,0 +1,6 @@
+﻿  20056.cpp
+E:\Users\inje\study\Coding\C,C++\Site_Backjoon\20056\20056\20056.cpp(46,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\Users\inje\study\Coding\C,C++\Site_Backjoon\20056\20056\20056.cpp(59,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\Users\inje\study\Coding\C,C++\Site_Backjoon\20056\20056\20056.cpp(64,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+E:\Users\inje\study\Coding\C,C++\Site_Backjoon\20056\20056\20056.cpp(91,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  20056.vcxproj -> E:\Users\inje\study\Coding\C,C++\Site_Backjoon\20056\Debug\20056.exe

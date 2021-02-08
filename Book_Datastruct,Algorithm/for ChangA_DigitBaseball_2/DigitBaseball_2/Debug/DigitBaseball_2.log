@@ -1,0 +1,3 @@
+﻿  소스.c
+d:\users\inje\study\c,c++\datastruct,algorithm\digitbaseball_2\digitbaseball_2\소스.c(150): error C2059: 구문 오류: ')'
+d:\users\inje\study\c,c++\datastruct,algorithm\digitbaseball_2\digitbaseball_2\소스.c(155): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.

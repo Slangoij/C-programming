@@ -1,0 +1,7 @@
+﻿  abcd_test.cpp
+d:\users\인제\취준\c언어\연습파일\kernighan책\compiler\abcd_test\abcd_test\abcd_test.cpp(10): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+d:\users\인제\취준\c언어\연습파일\kernighan책\compiler\abcd_test\abcd_test\abcd_test.cpp(10): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+d:\users\인제\취준\c언어\연습파일\kernighan책\compiler\abcd_test\abcd_test\abcd_test.cpp(10): warning C4101: 'l' :참조되지 않은 지역 변수입니다.
+d:\users\인제\취준\c언어\연습파일\kernighan책\compiler\abcd_test\abcd_test\abcd_test.cpp(10): warning C4101: 'd' :참조되지 않은 지역 변수입니다.
+  abcd_test.vcxproj -> D:\Users\인제\취준\C언어\연습파일\Kernighan책\compiler\abcd_test\Debug\abcd_test.exe
+  abcd_test.vcxproj -> D:\Users\인제\취준\C언어\연습파일\Kernighan책\compiler\abcd_test\Debug\abcd_test.pdb (Full PDB)

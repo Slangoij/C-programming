@@ -1,0 +1,5 @@
+﻿  소스.cpp
+e:\users\inje\study\c,c++\programmers\heap_harddisk\heap_harddisk\소스.cpp(44): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\c,c++\programmers\heap_harddisk\heap_harddisk\소스.cpp(51): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\c,c++\programmers\heap_harddisk\heap_harddisk\소스.cpp(67): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Heap_Harddisk.vcxproj -> E:\Users\inje\study\C,C++\programmers\Heap_Harddisk\Debug\Heap_Harddisk.exe

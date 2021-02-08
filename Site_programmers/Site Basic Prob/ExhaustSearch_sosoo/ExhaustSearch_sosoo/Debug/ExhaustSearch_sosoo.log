@@ -1,0 +1,9 @@
+﻿  소스.cpp
+e:\users\inje\study\c,c++\programmers\exhaustsearch_sosoo\exhaustsearch_sosoo\소스.cpp(15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\c,c++\programmers\exhaustsearch_sosoo\exhaustsearch_sosoo\소스.cpp(51): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\c,c++\programmers\exhaustsearch_sosoo\exhaustsearch_sosoo\소스.cpp(74): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\c,c++\programmers\exhaustsearch_sosoo\exhaustsearch_sosoo\소스.cpp(78): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\c,c++\programmers\exhaustsearch_sosoo\exhaustsearch_sosoo\소스.cpp(83): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\c,c++\programmers\exhaustsearch_sosoo\exhaustsearch_sosoo\소스.cpp(91): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\c,c++\programmers\exhaustsearch_sosoo\exhaustsearch_sosoo\소스.cpp(99): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ExhaustSearch_sosoo.vcxproj -> E:\Users\inje\study\C,C++\programmers\ExhaustSearch_sosoo\Debug\ExhaustSearch_sosoo.exe

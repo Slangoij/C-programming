@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Treasure Map", "Treasure Map\Treasure Map.vcxproj", "{0F3EDD09-9592-4914-BAD1-A7E7C37843C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F3EDD09-9592-4914-BAD1-A7E7C37843C7}.Debug|x64.ActiveCfg = Debug|x64
+		{0F3EDD09-9592-4914-BAD1-A7E7C37843C7}.Debug|x64.Build.0 = Debug|x64
+		{0F3EDD09-9592-4914-BAD1-A7E7C37843C7}.Debug|x86.ActiveCfg = Debug|Win32
+		{0F3EDD09-9592-4914-BAD1-A7E7C37843C7}.Debug|x86.Build.0 = Debug|Win32
+		{0F3EDD09-9592-4914-BAD1-A7E7C37843C7}.Release|x64.ActiveCfg = Release|x64
+		{0F3EDD09-9592-4914-BAD1-A7E7C37843C7}.Release|x64.Build.0 = Release|x64
+		{0F3EDD09-9592-4914-BAD1-A7E7C37843C7}.Release|x86.ActiveCfg = Release|Win32
+		{0F3EDD09-9592-4914-BAD1-A7E7C37843C7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE32250B-9681-4C62-8B40-CE55A44D0432}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+﻿  소스.cpp
+e:\users\inje\study\coding\c,c++\programmers\kakao blind test\20\gwalho trans\gwalho trans\소스.cpp(10): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\coding\c,c++\programmers\kakao blind test\20\gwalho trans\gwalho trans\소스.cpp(22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\coding\c,c++\programmers\kakao blind test\20\gwalho trans\gwalho trans\소스.cpp(48): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\coding\c,c++\programmers\kakao blind test\20\gwalho trans\gwalho trans\소스.cpp(62): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Gwalho Trans.vcxproj -> E:\Users\inje\study\Coding\C,C++\programmers\Kakao Blind Test\20\Gwalho Trans\Debug\Gwalho Trans.exe

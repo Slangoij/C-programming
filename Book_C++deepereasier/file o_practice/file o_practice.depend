@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560697810 source:e:\users\inje\study\c++\c++deepereasier\file o_practice\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

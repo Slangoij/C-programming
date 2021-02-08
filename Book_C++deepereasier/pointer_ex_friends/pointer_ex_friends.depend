@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557495465 source:e:\users\인제\공부\c언어\연습파일\c++더깊더쉽책\pointer_ex_friends\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+

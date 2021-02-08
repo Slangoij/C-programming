@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1557755329 source:e:\users\인제\공부\c언어\연습파일\c++더깊더쉽책\list_practice\main.cpp
+	<cstddef>
+	<iostream>
+

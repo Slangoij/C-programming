@@ -1,0 +1,5 @@
+﻿  소스.cpp
+e:\users\inje\study\coding\c,c++\test_kakao blind test\21\prob5\prob5\소스.cpp(47): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\coding\c,c++\test_kakao blind test\21\prob5\prob5\소스.cpp(57): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\coding\c,c++\test_kakao blind test\21\prob5\prob5\소스.cpp(75): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Prob5.vcxproj -> E:\Users\inje\study\Coding\C,C++\Test_Kakao Blind Test\21\Prob5\Debug\Prob5.exe

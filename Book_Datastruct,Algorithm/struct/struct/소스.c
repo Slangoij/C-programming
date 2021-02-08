@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <string.h>
+
+struct employee
+{
+	char name[10];
+	int year;
+	int pay;
+};
+
+void main()
+{
+	struct employee Lee;
+	struct employee *Sptr = &Lee;
+	strcpy_s(Sptr->name, 8, "이순신");
+	Sptr->year = 2005;
+	Sptr->pay = 2009;
+
+	printf("\n 이름 : %s", Sptr->name);
+	printf("\n 입사 : %d", Sptr->year);
+	printf("\n 연봉 : %d", Sptr->pay);
+}

@@ -1,0 +1,6 @@
+﻿  소스.cpp
+e:\users\inje\study\c,c++\programmers\kakaointerntestsam_prob3\kakaointerntestsam_prob3\소스.cpp(16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\c,c++\programmers\kakaointerntestsam_prob3\kakaointerntestsam_prob3\소스.cpp(42): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\c,c++\programmers\kakaointerntestsam_prob3\kakaointerntestsam_prob3\소스.cpp(68): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\c,c++\programmers\kakaointerntestsam_prob3\kakaointerntestsam_prob3\소스.cpp(81): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  KakaoInternTestSam_Prob3.vcxproj -> E:\Users\inje\study\C,C++\programmers\KakaoInternTestSam_Prob3\Debug\KakaoInternTestSam_Prob3.exe

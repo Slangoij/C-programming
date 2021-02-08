@@ -1,0 +1,6 @@
+﻿  소스.cpp
+e:\users\inje\study\c,c++\programmers\hash_phonebook\hash_phonebook\소스.cpp(38): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\c,c++\programmers\hash_phonebook\hash_phonebook\소스.cpp(61): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\c,c++\programmers\hash_phonebook\hash_phonebook\소스.cpp(62): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+e:\users\inje\study\c,c++\programmers\hash_phonebook\hash_phonebook\소스.cpp(65): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Hash_Phonebook.vcxproj -> E:\Users\inje\study\C,C++\programmers\Hash_Phonebook\Debug\Hash_Phonebook.exe
